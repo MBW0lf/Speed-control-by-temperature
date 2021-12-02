@@ -1,0 +1,97 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Encoder
+Added Component: Designator=Bat1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Bat2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Bat3(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C1(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2 Pin=Arduino Uno-2
+Added Pin To Net: NetName=2 Pin=Encoder-3
+Added Net: Name=2
+Added Pin To Net: NetName=3.3v Pin=Arduino Uno-3.3V
+Added Pin To Net: NetName=3.3v Pin=Bat3-1
+Added Net: Name=3.3v
+Added Pin To Net: NetName=3 Pin=Arduino Uno-3
+Added Pin To Net: NetName=3 Pin=Encoder-4
+Added Net: Name=3
+Added Pin To Net: NetName=12v Pin=Bat1-1
+Added Pin To Net: NetName=12v Pin=LCD1-2
+Added Pin To Net: NetName=12v Pin=U1-2
+Added Net: Name=12v
+Added Pin To Net: NetName=GND Pin=Arduino Uno-GND1
+Added Pin To Net: NetName=GND Pin=Arduino Uno-GND2
+Added Pin To Net: NetName=GND Pin=Arduino Uno-GND3
+Added Pin To Net: NetName=GND Pin=Bat1-2
+Added Pin To Net: NetName=GND Pin=Bat2-2
+Added Pin To Net: NetName=GND Pin=Bat3-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-3
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-9
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetEncoder_1 Pin=Encoder-1
+Added Pin To Net: NetName=NetEncoder_1 Pin=U1-3
+Added Net: Name=NetEncoder_1
+Added Pin To Net: NetName=NetEncoder_2 Pin=Encoder-2
+Added Pin To Net: NetName=NetEncoder_2 Pin=U1-1
+Added Net: Name=NetEncoder_2
+Added Pin To Net: NetName=Pin5 Pin=Arduino Uno-5
+Added Pin To Net: NetName=Pin5 Pin=U1-11
+Added Net: Name=Pin5
+Added Pin To Net: NetName=Pin6 Pin=Arduino Uno-6
+Added Pin To Net: NetName=Pin6 Pin=U1-5
+Added Net: Name=Pin6
+Added Pin To Net: NetName=Pin7 Pin=Arduino Uno-7
+Added Pin To Net: NetName=Pin7 Pin=U1-7
+Added Net: Name=Pin7
+Added Pin To Net: NetName=Pin8 Pin=Arduino Uno-8
+Added Pin To Net: NetName=Pin8 Pin=LCD1-11
+Added Net: Name=Pin8
+Added Pin To Net: NetName=Pin9 Pin=Arduino Uno-9
+Added Pin To Net: NetName=Pin9 Pin=LCD1-12
+Added Net: Name=Pin9
+Added Pin To Net: NetName=Pin10 Pin=Arduino Uno-10
+Added Pin To Net: NetName=Pin10 Pin=LCD1-13
+Added Net: Name=Pin10
+Added Pin To Net: NetName=Pin11 Pin=Arduino Uno-11
+Added Pin To Net: NetName=Pin11 Pin=LCD1-14
+Added Net: Name=Pin11
+Added Pin To Net: NetName=Pin12 Pin=Arduino Uno-12
+Added Pin To Net: NetName=Pin12 Pin=LCD1-6
+Added Net: Name=Pin12
+Added Pin To Net: NetName=Pin13 Pin=Arduino Uno-13
+Added Pin To Net: NetName=Pin13 Pin=LCD1-4
+Added Net: Name=Pin13
+Added Pin To Net: NetName=VCC Pin=Arduino Uno-5V
+Added Pin To Net: NetName=VCC Pin=Arduino Uno-AREF
+Added Pin To Net: NetName=VCC Pin=Bat2-1
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component Bat1 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component Bat2 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component Bat3 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
